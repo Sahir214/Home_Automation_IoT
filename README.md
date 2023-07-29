@@ -1,5 +1,6 @@
 # Home_Automation_IoT
-# Internship Project: Home Automation System to control home appliances  by switching ON/OFF automatically.
+## Intenship by : UpSkill Campus, alongwith its industry Partner UniConverge Technologies
+## Internship Project: Home Automation System to control home appliances  by switching ON/OFF automatically.
 
 ## Introduction
 Welcome to the GitHub repository for my internship project on Home Automation System!
